@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/BlazorWasm.AuthO/Server/appsettings.Development.json
+/BlazorWasm.AuthO/Client/wwwroot/appsettings.Development.json
